@@ -12,5 +12,3 @@ class Solution(object):
                 result += singleroman[x]
         return result
         
-
-                
